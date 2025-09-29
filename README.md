@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/infohub_spot" target="blank"><img src="https://img.shields.io/twitter/follow/infohub_spot?logo=twitter&style=for-the-badge" alt="infohub_spot" /></a> </p>
 
-- 🔭 I’m currently working on [Sweply](https://www.sweply.com/)
+- 🔭 I’m currently working on [Salla](https://salla.com/)
 
 - 🌱 I’m currently learning **Devin AI - World First AI Software Enginner Tools**
 
-- 👯 I’m looking to collaborate on [Sweply](https://www.sweply.com/)
+- 👯 I’m looking to collaborate on [Salla](https://salla.com/)
 
-- 🤝 I’m looking for help with [Sweply](https://www.sweply.com/)
+- 🤝 I’m looking for help with [Salla](https://salla.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinjagtappm](https://github.com/sachinjagtappm)
 
